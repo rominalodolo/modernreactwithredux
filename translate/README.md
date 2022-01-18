@@ -78,3 +78,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Section 1 Activity Translate App
 by Stephen Grider [Udemy course link]
 (https://www.udemy.com/course/react-redux/learn/lecture/25644362#overview)
+
+`npm install axios`
