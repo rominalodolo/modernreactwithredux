@@ -78,10 +78,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-## Section 1 Activity Translate App
-by Stephen Grider [Udemy course link]
-(https://www.udemy.com/course/react-redux/learn/lecture/25644362#overview)
-
+## Any errors with Axios
+If you throw an error and don't see this package in your json file then add it by running this command: 
 `npm install axios`
 
 Last edit January 2022
