@@ -1,6 +1,5 @@
 # Section 1 Activity Translate App
-by Stephen Grider [Udemy course link]
-(https://www.udemy.com/course/react-redux/learn/lecture/25644362#overview)
+by Stephen Grider [Udemy course link](https://www.udemy.com/course/react-redux/learn/lecture/25644362#overview)
 
 Final App 
 ![translateApp](https://user-images.githubusercontent.com/83961643/150000656-84d47c19-350a-4339-99af-119f9b60ccfa.jpeg)
