@@ -18,7 +18,7 @@ const App = () => {
         Enter name:
       </label>
       <input id="name" type="text" />
-      <button style={{ backgroundColor: "blue", color: "white" }}>
+      <button style={{ backgroundColor: "pink", color: "white" }}>
         {getButtonText()}
       </button>
     </div>
