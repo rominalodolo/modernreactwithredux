@@ -7,7 +7,7 @@ if (module.hot) {
 }
 
 function getButtonText() {
-  return "Click on me!";
+  return "Click Here!";
 }
 
 // Create a react component
