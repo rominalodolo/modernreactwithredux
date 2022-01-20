@@ -32,3 +32,6 @@ Screenshot from Receiving Values From Controlled Elements exercise completed.
 
 ## Section 9 
 Screenshot from Practicing List Building exercise completed. 
+
+## Section 12 
+Screenshot from UseState Exercise exercise completed. 
