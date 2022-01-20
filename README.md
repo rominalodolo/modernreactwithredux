@@ -41,3 +41,6 @@ Screenshot from Practicing With UseState and UseEffect exercise completed.
 
 ## Section 14 
 Screenshot from Another Use of Custom Hooks exercise completed. 
+
+## Section 17 
+Screenshot from Extracting More Data From Redux exercise completed. 
