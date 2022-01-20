@@ -15,4 +15,9 @@ Screenshot from an exercise completed.
 
 ### Installs
 ` npm install semantic-ui-react semantic-ui-css` [Semantic UI](https://semantic-ui.com)
-`` [Faker]()
+[cdnjs Semantic UI library](https://cdnjs.com/libraries/semantic-ui)
+
+`npm install faker@5.5.3` [Faker](https://github.com/faker-js/faker)
+then install `npm install @faker-js/faker` 
+
+However, this is the command I used `npm install @faker-js/faker --save-dev` 
