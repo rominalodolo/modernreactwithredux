@@ -13,3 +13,6 @@ Screenshot from an exercise completed.
 
 ![section2Test](https://user-images.githubusercontent.com/83961643/150297036-48dcb7b2-eb4a-4591-929c-960b9eb101a3.jpeg)
 
+### Installs
+` npm install semantic-ui-react semantic-ui-css` [Semantic UI](https://semantic-ui.com)
+`` [Faker]()
