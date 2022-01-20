@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Seasons App
+by Stephen Grider [Udemy course link](https://www.udemy.com/course/react-redux/learn/lecture/25644362#overview)
+
+Screen shots
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
