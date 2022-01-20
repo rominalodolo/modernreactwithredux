@@ -52,3 +52,12 @@ Screenshot from Adding a Reducer Case exercise completed.
 
 ## Section 20 
 Screenshot from Adding Another Route exercise completed.
+
+## Section 25 
+Screenshot from Closing the Modal exercise completed.
+
+## Section 26 
+Screenshot from Filtering the Stream List exercise completed.
+
+## Section 27
+Screenshot from Creating and Consuming Context exercise completed.
