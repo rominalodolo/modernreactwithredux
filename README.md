@@ -13,3 +13,7 @@ Screenshot from Props exercise completed.
 
 ![section2Test](https://user-images.githubusercontent.com/83961643/150297036-48dcb7b2-eb4a-4591-929c-960b9eb101a3.jpeg)
 
+
+Screenshot from Children exercise completed. 
+
+![section2Test](https://user-images.githubusercontent.com/83961643/150297036-48dcb7b2-eb4a-4591-929c-960b9eb101a3.jpeg)
