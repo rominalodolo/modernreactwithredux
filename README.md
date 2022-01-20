@@ -44,3 +44,11 @@ Screenshot from Another Use of Custom Hooks exercise completed.
 
 ## Section 17 
 Screenshot from Extracting More Data From Redux exercise completed. 
+
+Screenshot from Connecting Components to Redux exercise completed.
+
+## Section 19 
+Screenshot from Adding a Reducer Case exercise completed.
+
+## Section 20 
+Screenshot from Adding Another Route exercise completed.
