@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Section 3 Activity Comments Feature
+by Stephen Grider [Udemy course link](https://www.udemy.com/course/react-redux/learn/lecture/25644362#overview)
+
+Final App 
+(screenshot)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
