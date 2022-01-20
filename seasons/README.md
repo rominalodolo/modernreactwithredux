@@ -2,6 +2,10 @@
 by Stephen Grider [Udemy course link](https://www.udemy.com/course/react-redux/learn/lecture/25644362#overview)
 
 Screen shots
+![lat](https://user-images.githubusercontent.com/83961643/150351067-a325ab0c-79e9-49f7-ae07-c3925307010e.jpg)
+![beach](https://user-images.githubusercontent.com/83961643/150351079-884a6cc6-45a2-43e1-83fc-44065548fb3d.jpeg)
+
+
 
 ## Getting Started with Create React App
 
