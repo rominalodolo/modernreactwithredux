@@ -6,6 +6,7 @@ Completed exercises done from the Modern React with Redux Udemy course by Stephe
 Screenshot from the JSX Interpolation exercise completed.
 ![section2Test](https://user-images.githubusercontent.com/83961643/150297036-48dcb7b2-eb4a-4591-929c-960b9eb101a3.jpeg)
 
+
 ## Section 3 
 Screenshot from Props exercise completed. 
 ![2](https://user-images.githubusercontent.com/83961643/150344099-1544c7ba-f40e-46d4-939c-b71de723364d.jpeg)
@@ -19,7 +20,6 @@ Screenshot from Children exercise completed.
 Screenshot from Class-Based Components exercise completed. 
 ![4](https://user-images.githubusercontent.com/83961643/150509334-0bf80e0c-d88c-4e3f-9bd3-906201561dc3.jpeg)
 
-
 Screenshot from Updating Components with State exercise completed.
 ![5](https://user-images.githubusercontent.com/83961643/150510422-ac4a4299-7978-41f6-96e4-27f09396b3ec.jpeg)
 
@@ -28,15 +28,18 @@ Screenshot from Updating Components with State exercise completed.
 Screenshot from Receiving Values From Controlled Elements exercise completed. 
 ![6](https://user-images.githubusercontent.com/83961643/150511368-a3daaaa6-5943-477b-84b2-5e406d6fa926.jpeg)
 
+
 ## Section 9 
 Screenshot from Practicing List Building exercise completed. 
 ![7](https://user-images.githubusercontent.com/83961643/150512043-3d97b422-5e8c-4112-9c11-60715d7a3ef4.jpeg)
+
 
 ## Section 12 
 Screenshot from UseState Exercise exercise completed. 
 ![8](https://user-images.githubusercontent.com/83961643/150512870-a9c43879-f946-4f23-9ff0-3a889a7479c8.jpeg)
 
 Screenshot from Practicing With UseState and UseEffect exercise completed. 
+![9](https://user-images.githubusercontent.com/83961643/150513713-78cb37fc-77d1-47a7-9d88-37282815b0a2.jpeg)
 
 
 ## Section 14 
