@@ -30,6 +30,7 @@ Screenshot from Receiving Values From Controlled Elements exercise completed.
 
 ## Section 9 
 Screenshot from Practicing List Building exercise completed. 
+![7](https://user-images.githubusercontent.com/83961643/150512043-3d97b422-5e8c-4112-9c11-60715d7a3ef4.jpeg)
 
 ## Section 12 
 Screenshot from UseState Exercise exercise completed. 
