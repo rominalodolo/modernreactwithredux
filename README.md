@@ -14,7 +14,7 @@ Screenshot from Props exercise completed.
 
 
 Screenshot from Children exercise completed. 
-![section2Test](https://user-images.githubusercontent.com/83961643/150297036-48dcb7b2-eb4a-4591-929c-960b9eb101a3.jpeg)
+![3](https://user-images.githubusercontent.com/83961643/150507975-18516771-2e33-4f3a-927a-3586102fd07b.jpeg)
 
 
 ## Section 6 
