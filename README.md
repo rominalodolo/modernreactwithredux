@@ -26,7 +26,7 @@ Screenshot from Updating Components with State exercise completed.
 
 ## Section 7 
 Screenshot from Receiving Values From Controlled Elements exercise completed. 
-
+![6](https://user-images.githubusercontent.com/83961643/150511368-a3daaaa6-5943-477b-84b2-5e406d6fa926.jpeg)
 
 ## Section 9 
 Screenshot from Practicing List Building exercise completed. 
