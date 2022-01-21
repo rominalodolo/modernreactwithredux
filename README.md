@@ -21,6 +21,7 @@ Screenshot from Class-Based Components exercise completed.
 
 
 Screenshot from Updating Components with State exercise completed.
+![5](https://user-images.githubusercontent.com/83961643/150510422-ac4a4299-7978-41f6-96e4-27f09396b3ec.jpeg)
 
 
 ## Section 7 
