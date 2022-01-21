@@ -17,6 +17,7 @@ Screenshot from Children exercise completed.
 
 ## Section 6 
 Screenshot from Class-Based Components exercise completed. 
+![4](https://user-images.githubusercontent.com/83961643/150509334-0bf80e0c-d88c-4e3f-9bd3-906201561dc3.jpeg)
 
 
 Screenshot from Updating Components with State exercise completed.
