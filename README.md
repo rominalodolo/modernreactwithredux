@@ -34,6 +34,7 @@ Screenshot from Practicing List Building exercise completed.
 
 ## Section 12 
 Screenshot from UseState Exercise exercise completed. 
+![8](https://user-images.githubusercontent.com/83961643/150512870-a9c43879-f946-4f23-9ff0-3a889a7479c8.jpeg)
 
 Screenshot from Practicing With UseState and UseEffect exercise completed. 
 
