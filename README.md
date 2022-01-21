@@ -3,28 +3,23 @@ Completed exercises done from the Modern React with Redux Udemy course by Stephe
 
 
 ## Section 2 
-
 Screenshot from the JSX Interpolation exercise completed.
 ![section2Test](https://user-images.githubusercontent.com/83961643/150297036-48dcb7b2-eb4a-4591-929c-960b9eb101a3.jpeg)
 
 ## Section 3 
-
 Screenshot from Props exercise completed. 
 ![2](https://user-images.githubusercontent.com/83961643/150344099-1544c7ba-f40e-46d4-939c-b71de723364d.jpeg)
 
 
 Screenshot from Children exercise completed. 
-![3](https://user-images.githubusercontent.com/83961643/150507975-18516771-2e33-4f3a-927a-3586102fd07b.jpeg)
+![3](https://user-images.githubusercontent.com/83961643/150508421-35ccb7bd-eeb0-4675-93f5-026288d02516.jpeg)
 
 
 ## Section 6 
-
 Screenshot from Class-Based Components exercise completed. 
-![section2Test](https://user-images.githubusercontent.com/83961643/150297036-48dcb7b2-eb4a-4591-929c-960b9eb101a3.jpeg)
 
 
 Screenshot from Updating Components with State exercise completed.
-![section2Test](https://user-images.githubusercontent.com/83961643/150297036-48dcb7b2-eb4a-4591-929c-960b9eb101a3.jpeg)
 
 
 ## Section 7 
