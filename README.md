@@ -49,6 +49,7 @@ Screenshot from Another Use of Custom Hooks exercise completed.
 
 ## Section 17 
 Screenshot from Extracting More Data From Redux exercise completed. 
+![11](https://user-images.githubusercontent.com/83961643/150652623-031fa59a-d5dc-4ea2-b0e6-6993b6df648f.jpg)
 
 Screenshot from Connecting Components to Redux exercise completed.
 
