@@ -76,3 +76,6 @@ Screenshot from Filtering the Stream List exercise completed.
 
 ## Section 27
 Screenshot from Creating and Consuming Context exercise completed.
+![17](https://user-images.githubusercontent.com/83961643/150787767-23c7f763-90ba-4556-aef2-81272c61ff7a.jpeg)
+
+Last updated Jan 2022
