@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Image Search App 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -72,3 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Install axios
 `npm install axios`
+
+Screenshot of working application 
+![finalIMAGEapp](https://user-images.githubusercontent.com/83961643/150799200-a1129e56-e1fc-424a-b0ab-4e183a5436c9.jpeg)
+
+Last edit Jan 2022
