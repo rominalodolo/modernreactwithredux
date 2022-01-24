@@ -72,6 +72,7 @@ Screenshot from Closing the Modal exercise completed.
 
 ## Section 26 
 Screenshot from Filtering the Stream List exercise completed.
+![16](https://user-images.githubusercontent.com/83961643/150786771-4446558c-46d9-49af-91b9-f41f72e373c2.jpeg)
 
 ## Section 27
 Screenshot from Creating and Consuming Context exercise completed.
