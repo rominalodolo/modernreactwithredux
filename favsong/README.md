@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Favorite Song App
+
+Screen shot:
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
