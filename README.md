@@ -67,6 +67,8 @@ Screenshot from Adding Another Route exercise completed.
 
 ## Section 25 
 Screenshot from Closing the Modal exercise completed.
+![15](https://user-images.githubusercontent.com/83961643/150786048-54c4ab76-14bb-41d3-a518-f3db614d0e20.jpeg)
+
 
 ## Section 26 
 Screenshot from Filtering the Stream List exercise completed.
