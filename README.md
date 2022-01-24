@@ -52,6 +52,8 @@ Screenshot from Extracting More Data From Redux exercise completed.
 ![11](https://user-images.githubusercontent.com/83961643/150652623-031fa59a-d5dc-4ea2-b0e6-6993b6df648f.jpg)
 
 Screenshot from Connecting Components to Redux exercise completed.
+![12](https://user-images.githubusercontent.com/83961643/150779319-f349c83f-c1b5-4c40-8f58-976970428f03.jpeg)
+
 
 ## Section 19 
 Screenshot from Adding a Reducer Case exercise completed.
