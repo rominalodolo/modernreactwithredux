@@ -1,6 +1,7 @@
 # Blog App
 
 Screenshot: 
+![blogapp](https://user-images.githubusercontent.com/83961643/150814636-cf5cec5b-2850-495f-8793-c66ebf13a4bc.jpeg)
 
 
 ## Getting Started with Create React App
@@ -73,3 +74,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Extra installs for app
+`npm i axios`
+`npm i react-redux`
+`npm i redux-thunk`
+
+Last edit Jan 2022
