@@ -62,6 +62,8 @@ Screenshot from Adding a Reducer Case exercise completed.
 
 ## Section 20 
 Screenshot from Adding Another Route exercise completed.
+![14](https://user-images.githubusercontent.com/83961643/150785077-b51461dd-9a78-47c0-8f74-e7f7815d03ed.jpeg)
+
 
 ## Section 25 
 Screenshot from Closing the Modal exercise completed.
