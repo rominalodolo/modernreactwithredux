@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Streamer App
+
+Screen shot:
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -72,3 +78,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Installs 
 `npm install react-router-dom@5`
+`npm i flv`
+`npm i redux-form`
+`npm i redux-thunk`
+`npm i axios`
+`npm i react-redux`
