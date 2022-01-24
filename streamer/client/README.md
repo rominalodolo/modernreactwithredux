@@ -1,6 +1,5 @@
 # Streamer App
 
-Screen shot:
 
 
 
