@@ -57,6 +57,8 @@ Screenshot from Connecting Components to Redux exercise completed.
 
 ## Section 19 
 Screenshot from Adding a Reducer Case exercise completed.
+![13](https://user-images.githubusercontent.com/83961643/150779687-1c96848d-ab2d-46eb-9590-d9879f97bdf7.jpeg)
+
 
 ## Section 20 
 Screenshot from Adding Another Route exercise completed.
