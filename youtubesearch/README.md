@@ -1,6 +1,7 @@
 # YouTube Search App Project 
 
 Screenshot:
+![YoutubeSearchApp](https://user-images.githubusercontent.com/83961643/150802081-f1688493-1c54-48f7-98be-cb1a9d2de744.jpeg)
 
 ## Getting Started with Create React App
 
