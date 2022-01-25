@@ -85,3 +85,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![step1](https://user-images.githubusercontent.com/83961643/150938303-9f28b631-edc8-4dbb-b42b-733fd15ecbe7.jpeg)
 ![done](https://user-images.githubusercontent.com/83961643/150938313-d7c78880-4198-401b-8737-fdb5324c3d6f.jpeg)
 ![ready](https://user-images.githubusercontent.com/83961643/150938330-3075e622-fa5f-4680-9fd4-55d9bd045bbb.jpeg)
+
+to update your project once it's been deployed you can run `vercel --prod` in your working directory command line. 
+You will then be given an updated link. 
+
+Last Editied: Jan 2022. 
